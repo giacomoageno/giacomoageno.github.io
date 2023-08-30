@@ -6,7 +6,7 @@ I obtained my Ph.D. at the University of Bath, under the supervision of [Prof. M
 
 I am interested in qualitative properties of nonlinear PDE, in particular singularity formation in nonlinear evolution equations (Heat, Schrödinger, Euler).
 
-My [CV](https://giacomoageno.github.io/My_CV.pdf)
+My [CV](https://giacomoageno.github.io/CV.pdf)
 
 - ## Papers
 	G. Ageno and M. del Pino. Infinite time blow-up for the three dimensional energy critical heat equation in bounded domains, 2023. [arXiv:2301.10442](https://arxiv.org/abs/2301.10442)
