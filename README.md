@@ -12,6 +12,7 @@ I obtained my Ph.D. at the University of Bath, under the supervision of [Prof. M
 	### PhD Thesis
 	Infinite-time blow-up for the nonlinear heat equations in low dimension
   	  
-- [Interest](#heading-1): Analysis of PDE, singularity formation in nonlinear evolution equations (Heat, Schrödinger, fluids), qualitative properties of parabolic equations.
+## Interests
+Analysis of PDE, singularity formation in nonlinear evolution equations (Heat, Schrödinger, fluids), qualitative properties of parabolic equations.
 
 
