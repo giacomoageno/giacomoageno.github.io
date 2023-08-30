@@ -1,5 +1,3 @@
-# Giacomo Ageno's Homepage
-
 - ## About me
 
 I am a Research Associate (postdoc) at the University of Cambridge, hosted by [Prof. Pierre Raphaël](https://www.maths.cam.ac.uk/person/pr463).
