@@ -9,7 +9,8 @@ I obtained my Ph.D. at the University of Bath, under the supervision of [Prof. M
 - ## Papers
   	- G. Ageno and M. del Pino. Infinite time blow-up for the three dimensional energy critical heat equation in bounded domain, 2023. [arXiv:2301.10442](https://arxiv.org/abs/2301.10442)
  
-	- PhD Thesis: Infinite-time blow-up for the nonlinear heat equations in low dimension
+	### PhD Thesis
+	Infinite-time blow-up for the nonlinear heat equations in low dimension
   	  
 - [Interest](#heading-1): Analysis of PDE, singularity formation in nonlinear evolution equations (Heat, Schrödinger, fluids), qualitative properties of parabolic equations.
 
