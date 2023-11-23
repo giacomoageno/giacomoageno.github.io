@@ -4,7 +4,7 @@ I am a Research Associate (postdoc) at the University of Cambridge, hosted by [P
 
 I obtained my Ph.D. at the University of Bath, under the supervision of [Prof. Manuel del Pino](https://researchportal.bath.ac.uk/en/persons/manuel-del-pino). My second supervisor was [Prof. Monica Musso](https://sites.google.com/view/monicamusso/home).
 
-I am interested in qualitative properties of nonlinear PDE, in particular singularity formation in nonlinear evolution equations (Heat, Schrödinger, fluids).
+I am interested in qualitative properties of nonlinear PDE, in particular singularity formation in nonlinear evolution equations (Heat, free boundary problems, fluids).
 
 Email: ga482[at]cam.ac.uk
 
