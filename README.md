@@ -13,7 +13,7 @@ Address: Office E1.10, DPMMS
 [CV](https://giacomoageno.github.io/My_CV.pdf)
 
 - ## Submitted Papers
-	G. Ageno and M. del Pino. Infinite time blow-up for the three dimensional energy critical heat equation in bounded domains, 2023. [arXiv:2301.10442](https://arxiv.org/abs/2301.10442)
+	Ageno, G., Pino, M.d. Infinite time blow-up for the three dimensional energy critical heat equation in bounded domains. Math. Ann. (2024). [Link](https://doi.org/10.1007/s00208-024-02885-x)
  
 - ## PhD Thesis
 	Infinite-time blow-up for the nonlinear heat equations in low dimension. [University of Bath, research portal](https://researchportal.bath.ac.uk/en/studentTheses/infinite-time-blow-up-for-the-nonlinear-heat-equations-in-low-dim)
