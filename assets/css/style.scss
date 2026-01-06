@@ -1,0 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Remove the default footer attribution line */
+footer { display: none !important; }
