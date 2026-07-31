@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Giacomo Ageno
 logo: /images/profile.jpeg.jpeg
-description: Research Associate at University of Cambridge
+description: Researcher at University of Cambridge
 email: ga482[at]cam.ac.uk
 address: Office E1.10, Centre for Mathematical Sciences, Wilberforce Rd, Cambridge CB3 0WB
 
@@ -16,3 +16,7 @@ repo_trophies:
   enabled: true
   theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
+
+# Do not display "View My GitHub Profile"
+github:
+  is_user_page: false
