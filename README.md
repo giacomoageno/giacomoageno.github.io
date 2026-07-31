@@ -1,9 +1,5 @@
 - ## About me
 
-<p align="center">
-  <img src="images/profile.jpeg.jpeg" alt="Giacomo Ageno" width="220">
-</p>
-
 I am a Research Associate (postdoc) at the University of Cambridge, hosted by [Prof. Pierre Raphaël](https://www.maths.cam.ac.uk/person/pr463).
 
 I obtained my Ph.D. at the University of Bath, under the supervision of [Prof. Manuel del Pino](https://researchportal.bath.ac.uk/en/persons/manuel-del-pino). My second supervisor was [Prof. Monica Musso](https://sites.google.com/view/monicamusso/home).
