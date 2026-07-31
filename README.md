@@ -4,7 +4,7 @@ I am a Research Associate (postdoc) at [Department of Pure Mathematics and Mathe
 
 I am currently a postdoctoral Affiliate of [Trinity College](https://www.trin.cam.ac.uk/).
 
-I obtained my Ph.D. at the University of Bath, under the supervision of [Prof. Manuel del Pino](https://researchportal.bath.ac.uk/en/persons/manuel-del-pino). My second supervisor was [Prof. Monica Musso](https://sites.google.com/view/monicamusso/home).
+I obtained my Ph.D. at the [University of Bath](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/), under the supervision of [Prof. Manuel del Pino](https://researchportal.bath.ac.uk/en/persons/manuel-del-pino). My second supervisor was [Prof. Monica Musso](https://sites.google.com/view/monicamusso/home).
 
 I am interested in qualitative properties of nonlinear PDE, in particular singularity formation in nonlinear evolution equations (Heat, free boundary problems, fluids).
 
