@@ -1,6 +1,7 @@
 - ## About me
 
-I am a Research Associate (postdoc) at the University of Cambridge, hosted by [Prof. Pierre Raphaël](https://www.maths.cam.ac.uk/person/pr463).
+I am a Research Associate (postdoc) at [Department of Pure Mathematics and Mathematical Statistics (DPMMS)](https://www.dpmms.cam.ac.uk/) at the University of Cambridge, hosted by [Prof. Pierre Raphaël](https://www.maths.cam.ac.uk/person/pr463).
+I am currently a Postdoctoral Affiliate of [Trinity College](https://www.trin.cam.ac.uk/).
 
 I obtained my Ph.D. at the University of Bath, under the supervision of [Prof. Manuel del Pino](https://researchportal.bath.ac.uk/en/persons/manuel-del-pino). My second supervisor was [Prof. Monica Musso](https://sites.google.com/view/monicamusso/home).
 
@@ -19,7 +20,7 @@ Address: Office E1.10, DPMMS
   - [Lecture Notes](https://giacomoageno.github.io/LectureNotesAPDE.pdf)
   - [Description of the course](https://giacomoageno.github.io/DescriptionAPDE.pdf)
 
-## Submitted Papers
+## Published Papers
 - G. Ageno, M. del Pino. Infinite time blow-up for the three dimensional energy critical heat equation in bounded domains. *Math. Ann.* (2024). [Journal](https://doi.org/10.1007/s00208-024-02885-x)
 
 ## PhD Thesis
