@@ -1,7 +1,8 @@
 - ## About me
 
 I am a Research Associate (postdoc) at [Department of Pure Mathematics and Mathematical Statistics (DPMMS)](https://www.dpmms.cam.ac.uk/) at the University of Cambridge, hosted by [Prof. Pierre Raphaël](https://www.maths.cam.ac.uk/person/pr463).
-I am currently a Postdoctoral Affiliate of [Trinity College](https://www.trin.cam.ac.uk/).
+
+I am currently a postdoctoral Affiliate of [Trinity College](https://www.trin.cam.ac.uk/).
 
 I obtained my Ph.D. at the University of Bath, under the supervision of [Prof. Manuel del Pino](https://researchportal.bath.ac.uk/en/persons/manuel-del-pino). My second supervisor was [Prof. Monica Musso](https://sites.google.com/view/monicamusso/home).
 
